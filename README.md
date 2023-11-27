@@ -1,2 +1,2 @@
-# Aleo-Tiktactor
+# Alleo ticktac
 my aleo tiktactoe app
